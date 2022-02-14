@@ -20,3 +20,8 @@ list of idea for developes, how want o gow...
 -- dex
 
 -- vote
+
+##
+<p align="right"> 
+  <a href="https://github.com/mosi-sol/blockchain-developers-idea" target="blank"><img src="https://img.shields.io/badge/Ver-0.1-blue" alt="cafe_pafe" /></a>  
+</p>
