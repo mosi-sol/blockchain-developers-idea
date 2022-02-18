@@ -4,7 +4,7 @@
 </p>
 
 # blockchain-developers-idea
-list of idea for developes, how want o gow...
+list of idea for developes, how to grow...
 ##
 
 - game core
