@@ -21,6 +21,12 @@ list of idea for developes, how want o gow...
 - - vote
 - - wallet
 
+###
+
+- tokenomize
+- - wrapped token
+- - dao ecosystem
+
 ##
 <p align="right"> 
   <a href="https://github.com/mosi-sol/blockchain-developers-idea" target="blank"><img src="https://img.shields.io/badge/Ver-0.1-blue" alt="cafe_pafe" /></a>  
