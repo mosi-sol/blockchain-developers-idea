@@ -20,6 +20,8 @@ list of idea for developes, how to grow...
 - - dex
 - - vote
 - - wallet
+- - multi-sig wallet
+- - - escrow
 
 ###
 
