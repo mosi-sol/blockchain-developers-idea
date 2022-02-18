@@ -8,9 +8,9 @@ list of idea for developes, how want o gow...
 ##
 
 - game core
-- - board games
-- - card games
-- - fight games
+ - board games
+ - card games
+ - fight games
 
 ###
 
