@@ -3,7 +3,7 @@
 <a href="https://youtube.com/pafecafe" target="blank"><img src="https://img.shields.io/badge/youtube-watch-red/follow/cafe_pafe?logo=youtube&style=plastic&logoColor=red&labelColor=334455" alt="pafecafe" /></a> 
 </p>
 
-# blockchain-developers-idea
+# blockchain/smartcontract/dapp-developers-idea
 list of idea for developes, how to grow...
 ##
 
